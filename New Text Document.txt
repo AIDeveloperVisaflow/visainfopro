@@ -1,0 +1,8 @@
+cd path/to/your/visaflow-mobile
+
+git init                          # skip if it's already a git repo
+git add .
+git commit -m "VisaFlowPro mobile app"
+git branch -M main
+git remote add origin https://github.com/AIDeveloperVisaflow/visainfopro.git
+git push -u origin main           # GitHub will ask you to log in
