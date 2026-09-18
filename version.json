@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "format": 2,
+  "v": 2,
+  "updated": "2026-09-18T10:08:39Z",
+  "generatedAt": "2026-09-18T10:08:39Z",
+  "data": "visa_feed.json",
+  "file": "visa_feed.json",
+  "url": "visa_feed.json",
+  "sha256": "fb7c702bc366cc89d9bae5f9dbb21e6784a5c819bd7bd14e5cae2f16ca285bf4",
+  "counts": {
+    "detailed": 214,
+    "catalog": 334,
+    "countries": 131,
+    "costOfLiving": 8,
+    "successHistory": 8,
+    "lawyers": 20
+  }
+}
